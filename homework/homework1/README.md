@@ -1,7 +1,6 @@
-# Project Title
-**Market Microstructure & Volatility Spillovers in Financial Assets**
+# Market Microstructure & Volatility Spillovers in Financial Assets
 
-**Stage:** Problem Framing & Scoping (Stage 01)
+**Stage:** Problem Framing & Scoping
 
 ---
 
@@ -72,8 +71,4 @@ Goal → Stage → Deliverable
 - `/src/`: Core scripts (`features.py`, `models.py`, `spillovers.py`, `viz.py`).  
 - `/notebooks/`: Exploratory analysis, step-by-step experiments.  
 - `/docs/`: Method notes, references, figures, writeup drafts.  
-- `/reports/`: Final plots, tables, and paper-like summary.  
-
-**Cadence for updates:**  
-- Daily commits during 2-week sprint.  
-- Stage checkpoints every ~3 days (scoping → data → modeling → analysis → delivery).  
+- `/reports/`: Final plots, tables, and paper-like summary.    
