@@ -1,6 +1,6 @@
 # bootcamp_Arnav_Srivastava
 
-A clean, git-first scaffold for my bootcamp coursework and capstone project.
+A clean, git-first structure for my bootcamp coursework and capstone project.
 
 ## Layout
 ```text
